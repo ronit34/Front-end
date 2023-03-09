@@ -1,0 +1,16 @@
+body {
+    background-color: whitesmoke;
+  }
+  h1 {
+    color: rgb(72, 253, 0);
+    text-align: center;
+    
+  }
+  p {
+    color: rgb(255, 0, 0);
+    text-align: center;
+  }
+
+  h3 {
+    text-align: center;
+  }
